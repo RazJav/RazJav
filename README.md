@@ -1,133 +1,111 @@
 <!--
-  Hi there! I'm Benjamin Corona.
-  This README was generated to be professional, impressive, and unique.
+  ██████╗  █████╗ ███████╗     ██╗ █████╗ ██╗   ██╗
+  ██╔══██╗██╔══██╗╚══███╔╝     ██║██╔══██╗██║   ██║
+  ██████╔╝███████║  ███╔╝      ██║███████║██║   ██║
+  ██╔══██╗██╔══██║ ███╔╝  ██   ██║██╔══██║╚██╗ ██╔╝
+  ██║  ██║██║  ██║███████╗╚█████╔╝██║  ██║ ╚████╔╝
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚════╝ ╚═╝  ╚═╝  ╚═══╝
+  Founder @ ALPACORE
 -->
 
 <div align="center">
-  
-  <!-- Animated Typing Header -->
+
+  <!-- Typing header: monochrome, terminal style -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Benjamin+Corona;Full+Stack+Developer;Mobile+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=620&lines=%24+whoami;Javier+%7C+RazJav;Full+Stack+Developer;Founder+%40+ALPACORE;Building+systems+that+ship." alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/benjamincorona/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Social badges (monochrome) -->
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:benjamincoronalara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:TU_CORREO@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/benjacoron_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://TU_SITIO_ALPACORE.com">
+    <img src="https://img.shields.io/badge/ALPACORE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="ALPACORE"/>
   </a>
-  
-  <br/>
-  <br/>
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=BenjaminCorona&style=flat-square&color=2094F3&label=Profile+Views" alt="Profile Views"/>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=RazJav&style=flat-square&color=555555&label=visitors" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  > about.sh                                                  │
+│                                                              │
+│  Desarrollador full stack y fundador de ALPACORE.            │
+│  Diseño y opero sistemas de punta a punta: APIs, bots de     │
+│  WhatsApp, dashboards de monitoreo e infraestructura de IA   │
+│  local. Menos frameworks de moda, más soluciones que corren  │
+│  en producción todos los días.                               │
+│                                                              │
+│  focus  : backend architecture · automation · self-hosted AI │
+│  mode   : learning by building                               │
+│  status : shipping                                           │
+└──────────────────────────────────────────────────────────────┘
+```
 
----
+## ⚙️ Stack
 
-### 👨‍💻 About Me
+**Backend**
 
-I am a passionate **Full Stack & Mobile Developer**. I specialize in building high-performance, interactive web applications and cross-platform mobile apps. I love turning complex problems into elegant, user-friendly solutions and exploring new technologies.
+<img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/NestJS-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-- 🔭 I’m currently working on **Innovative Web & Mobile Solutions**
-- 🌱 I’m currently learning **Advanced AI Integration & System Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, Flutter, and Modern Web Architecture**
+**Frontend**
 
----
+<img src="https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-### 🛠️ Tech Stack
+**Infra & Ops**
 
-<div align="center">
+<img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> <img src="https://img.shields.io/badge/PM2-0a0a0a?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/> <img src="https://img.shields.io/badge/NGINX-0a0a0a?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/> <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+**AI**
 
-  <br/>
+<img src="https://img.shields.io/badge/Ollama-0a0a0a?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Local_LLMs-0a0a0a?style=for-the-badge&logo=openai&logoColor=white" alt="Local LLMs"/>
 
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+## 🔧 What I'm building
 
-  <br/>
+| Project | Description |
+|---|---|
+| **WhatsApp Bot Platform** | Deterministic state-machine bot with a two-layer LLM classifier, channel abstraction and admin panel. Pure Node.js, zero framework lock-in. |
+| **Ops Dashboard** | NestJS + Next.js monorepo for real-time service monitoring, repository-pattern architecture and dark-first design system. |
+| **Self-hosted AI API** | Local LLM inference (Ollama + vision models) served behind PM2 for private, offline-first AI workflows. |
+| **ALPACORE** | Web development, tech solutions and network infrastructure. |
 
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminCorona&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Benjamin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCorona&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RazJav&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=888888&title_color=e5e5e5&text_color=aaaaaa" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazJav&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=e5e5e5&text_color=aaaaaa" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- Streak Stats (Alternative Provider) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BenjaminCorona&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RazJav&hide_border=true&background=00000000&ring=888888&fire=e5e5e5&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=666666" alt="Streak Stats" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjaminCorona&theme=tokyonight" alt="Benjamin's Activity Graph" />
-</div>
-
-<br/>
-
-<!-- Detailed Summary -->
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminCorona&theme=tokyonight" alt="Profile Details" />
-</div>
-
----
-
-### 🧩 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazJav&bg_color=00000000&color=aaaaaa&line=888888&point=e5e5e5&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <p>© 2025 Benjamin Corona</p>
+
+  `while(alive) { build(); learn(); ship(); }`
+
+  <br/>
+
+  <sub>© 2026 · RazJav · ALPACORE</sub>
+
 </div>
