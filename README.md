@@ -18,14 +18,11 @@
   <br/><br/>
 
   <!-- Social badges (monochrome) -->
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/razo-tadeo">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:razotadeo8@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://TU_SITIO_ALPACORE.com">
-    <img src="https://img.shields.io/badge/ALPACORE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="ALPACORE"/>
   </a>
 
   <br/><br/>
@@ -70,14 +67,14 @@
 
 <img src="https://img.shields.io/badge/Ollama-0a0a0a?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Local_LLMs-0a0a0a?style=for-the-badge&logo=openai&logoColor=white" alt="Local LLMs"/>
 
-## 🔧 What I'm building
+## 🔧 What I do
 
-| Project | Description |
+| Area | Approach |
 |---|---|
-| **WhatsApp Bot Platform** | Deterministic state-machine bot with a two-layer LLM classifier, channel abstraction and admin panel. Pure Node.js, zero framework lock-in. |
-| **Ops Dashboard** | NestJS + Next.js monorepo for real-time service monitoring, repository-pattern architecture and dark-first design system. |
-| **Self-hosted AI API** | Local LLM inference (Ollama + vision models) served behind PM2 for private, offline-first AI workflows. |
-| **ALPACORE** | Web development, tech solutions and network infrastructure. |
+| **Backend & APIs** | REST APIs with NestJS and pure Node.js. Clean architecture, repository pattern, and code that's still readable six months later. |
+| **Automation** | Chatbots, cron-driven sync jobs, and integrations that remove humans from repetitive loops. |
+| **Self-hosted AI** | Local LLM inference with Ollama — private, offline-first, no per-token bills. |
+| **Infrastructure** | Linux servers, PM2, reverse proxies, SSH tunnels. If it runs in production, I keep it running. |
 
 ## 📊 Stats
 
@@ -90,12 +87,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=RazJav&hide_border=true&background=00000000&ring=888888&fire=e5e5e5&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=666666" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazJav&bg_color=00000000&color=aaaaaa&line=888888&point=e5e5e5&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
